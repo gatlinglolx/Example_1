@@ -1,0 +1,15 @@
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\bin\Debug\net6.0\Example_008_Magic.exe
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\bin\Debug\net6.0\Example_008_Magic.deps.json
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\bin\Debug\net6.0\Example_008_Magic.runtimeconfig.json
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\bin\Debug\net6.0\Example_008_Magic.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\bin\Debug\net6.0\Example_008_Magic.pdb
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.csproj.AssemblyReference.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.AssemblyInfoInputs.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.AssemblyInfo.cs
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.csproj.CoreCompileInputs.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\refint\Example_008_Magic.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.pdb
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\Example_008_Magic.genruntimeconfig.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_008_Magic\obj\Debug\net6.0\ref\Example_008_Magic.dll
