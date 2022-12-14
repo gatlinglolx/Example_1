@@ -1,0 +1,15 @@
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.csproj.AssemblyReference.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.AssemblyInfoInputs.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.AssemblyInfo.cs
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.csproj.CoreCompileInputs.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\bin\Debug\net6.0\Example_006_BestUser.exe
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\bin\Debug\net6.0\Example_006_BestUser.deps.json
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\bin\Debug\net6.0\Example_006_BestUser.runtimeconfig.json
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\bin\Debug\net6.0\Example_006_BestUser.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\bin\Debug\net6.0\Example_006_BestUser.pdb
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\refint\Example_006_BestUser.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.pdb
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\Example_006_BestUser.genruntimeconfig.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_006_BestUser\obj\Debug\net6.0\ref\Example_006_BestUser.dll
