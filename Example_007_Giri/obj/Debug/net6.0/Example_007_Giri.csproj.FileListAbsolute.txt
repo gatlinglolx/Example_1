@@ -1,0 +1,15 @@
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\bin\Debug\net6.0\Example_007_Giri.exe
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\bin\Debug\net6.0\Example_007_Giri.deps.json
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\bin\Debug\net6.0\Example_007_Giri.runtimeconfig.json
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\bin\Debug\net6.0\Example_007_Giri.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\bin\Debug\net6.0\Example_007_Giri.pdb
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.csproj.AssemblyReference.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.AssemblyInfoInputs.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.AssemblyInfo.cs
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.csproj.CoreCompileInputs.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\refint\Example_007_Giri.dll
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.pdb
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\Example_007_Giri.genruntimeconfig.cache
+D:\Курсы\Лекции\Programming\Example_1\Example_007_Giri\obj\Debug\net6.0\ref\Example_007_Giri.dll
